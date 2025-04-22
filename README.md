@@ -1,3 +1,3 @@
 # 📸 DJI Action 5 Pro - Android Kurulumu
 
-Bu repoda, 
+Bu repoda, **DJI 
