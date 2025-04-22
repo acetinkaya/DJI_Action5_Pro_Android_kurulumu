@@ -4,7 +4,8 @@
 
 > 📌 **Önemli Uyarı:**  
 Bu rehberde yer alan bilgiler, yalnızca bilgilendirme ve yönlendirme amacıyla hazırlanmıştır. 
-DJI Action 5 Pro 
+DJI Action 5 Pro cihazının kurulumu 
+
 
 
 
