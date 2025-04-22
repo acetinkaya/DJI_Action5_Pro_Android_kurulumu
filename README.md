@@ -1,2 +1,3 @@
-# DJI_Action5_Pro_kurulumu
+# DJI_Action5_Pro_Android_kurulumu
+
 DJI_Action5_Pro_kurulumu
