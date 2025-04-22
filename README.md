@@ -6,4 +6,4 @@ Bu repoda, **DJI Action 5 Pro** aksiyon kamerasının Android işletim sistemine
 
 ### 1. DJI Mimo APK Dosyasını Edinin
 
-DJI Mimo
+DJI Mimo uygulaması Android cihazların bazılarında 
