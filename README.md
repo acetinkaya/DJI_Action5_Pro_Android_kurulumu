@@ -4,4 +4,4 @@ Bu repoda, **DJI Action 5 Pro** aksiyon kamerasının Android işletim sistemine
 
 ## 🚀 Başlangıç
 
-### 1. DJI 
+### 1. DJI Mimo 
