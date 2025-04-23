@@ -5,7 +5,7 @@
 > 📌 **Önemli Uyarı:**  
 Bu rehberde yer alan bilgiler, yalnızca bilgilendirme ve yönlendirme amacıyla hazırlanmıştır. 
 DJI Action 5 Pro cihazının kurulumu sırasında yaşanabilecek herhangi bir hata, veri kaybı, cihaz arızası veya uyumsuzluk durumlarında sorumluluk tamamen kullanıcıya aittir.
-
+🔧 Her cihaz farklılık gösterebilir. 
 
 
 
