@@ -3,9 +3,9 @@
 ## Bu repoda, **DJI Action 5 Pro** aksiyon kamerasının Android işletim sistemine sahip telefonlarla nasıl eşleştirileceği ve **DJI Mimo** uygulamasının nasıl kurulacağı detaylı olarak anlatılmaktadır.
 
 > 📌 **Önemli Uyarı:**  
-✍️ Bu rehberde yer alan bilgiler, yalnızca bilgilendirme ve yönlendirme amacıyla hazırlanmıştır.    
-➡️ DJI Action 5 Pro cihazının kurulumu sırasında yaşanabilecek herhangi bir hata, veri kaybı, cihaz arızası veya uyumsuzluk durumlarında sorumluluk tamamen kullanıcıya aittir.   
+✍️ Bu rehberde yer alan bilgiler, yalnızca bilgilendirme ve yönlendirme amacıyla hazırlanmıştır.
 🔧 Her cihaz farklılık gösterebilir. Kurulum işlemlerine başlamadan önce üretici firma olan DJI’nin resmi kullanım kılavuzunu ve teknik destek kanallarını mutlaka inceleyiniz.   
+➡️ DJI Action 5 Pro cihazının kurulumu sırasında yaşanabilecek herhangi bir hata, veri kaybı, cihaz arızası veya uyumsuzluk durumlarında sorumluluk tamamen kullanıcıya aittir.   
 ❗ Bu repodaki içerikler, herhangi bir resmi destek veya garanti kapsamında değildir. Deneyimlerinizi kendi sorumluluğunuzda gerçekleştirmeniz beklenir.   
 👤 Bu içerikler, **Ali Çetinkaya (Danışmanlı Öğrenme)** tarafından hazırlanmış olup, kullanıcılara deneyim-bilgi paylaşımı amacı taşımaktadır.
 
