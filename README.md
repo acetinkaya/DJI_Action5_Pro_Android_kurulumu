@@ -17,3 +17,9 @@ DJI Action 5 Pro cihazının kurulumu sırasında yaşanabilecek herhangi bir ha
 ## DJI Mimo uygulaması Android cihazlarda Play Store üzerinden indirilemiyorsa aşağıdaki işlem süreçlerini takip ederek kurulum işlemi başlatabilirsiniz. 
 
 ## Bu nedenle güncel APK dosyasına sadece sayfasında erişim sağlayınız. NOT: Uygulama yönlendirmesi yapılmaksınız 
+
+
+---
+
+## ⚠️ Uyarı
+
