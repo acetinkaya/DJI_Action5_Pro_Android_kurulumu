@@ -23,4 +23,4 @@ DJI Action 5 Pro cihazının kurulumu sırasında yaşanabilecek herhangi bir ha
 
 ## ⚠️ Uyarı
 
-Bu döküman 
+Bu döküman yalnızca bilgi 
