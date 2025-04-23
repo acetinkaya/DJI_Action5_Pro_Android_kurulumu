@@ -9,9 +9,6 @@ DJI Action 5 Pro cihazının kurulumu sırasında yaşanabilecek herhangi bir ha
 ❗ Bu repodaki içerikler, herhangi bir resmi destek veya garanti kapsamında değildir. Deneyimlerinizi kendi sorumluluğunuzda gerçekleştirmeniz beklenir.   
 👤 Bu içerikler, **Ali Çetinkaya (Danışmanlı Öğrenme)** tarafından hazırlanmış olup, kullanıcılara deneyim-bilgi paylaşımı amacı taşımaktadır.
 
-
-
-
 ## 🚀 Başlangıç
 
 # 1. DJI Mimo APK Dosyasını Edinin
