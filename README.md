@@ -7,7 +7,8 @@ Bu rehberde yer alan bilgiler, yalnızca bilgilendirme ve yönlendirme amacıyla
 DJI Action 5 Pro cihazının kurulumu sırasında yaşanabilecek herhangi bir hata, veri kaybı, cihaz arızası veya uyumsuzluk durumlarında sorumluluk tamamen kullanıcıya aittir.   
 🔧 Her cihaz farklılık gösterebilir. Kurulum işlemlerine başlamadan önce üretici firma olan DJI’nin resmi kullanım kılavuzunu ve teknik destek kanallarını mutlaka inceleyiniz.   
 ❗ Bu repodaki içerikler, herhangi bir resmi destek veya garanti kapsamında değildir. Deneyimlerinizi kendi sorumluluğunuzda gerçekleştirmeniz beklenir.   
-👤 Bu içerikler, **Ali Çetinkaya (Danışmanlı Öğrenme)** tarafından hazırlanmış olup, 
+👤 Bu içerikler, **Ali Çetinkaya (Danışmanlı Öğrenme)** tarafından hazırlanmış olup, kullanıcılara deneyim-bilgi
+
 
 
 
