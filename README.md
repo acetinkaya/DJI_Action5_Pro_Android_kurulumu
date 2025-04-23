@@ -23,5 +23,5 @@ DJI Action 5 Pro cihazının kurulumu sırasında yaşanabilecek herhangi bir ha
 
 ## ⚠️ Uyarı
 
-Bu döküman yalnızca bilgi paylaşımı amacıyla hazırlanmıştır. Kurulum işlemlerinde 
+Bu döküman yalnızca bilgi paylaşımı amacıyla hazırlanmıştır. Kurulum işlemlerinde doğabilecek sorunlardan yazar sorumlu 
 
