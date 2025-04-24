@@ -22,7 +22,7 @@
 - Gerekli izinlerin verilmiş olması (Hem Android Hemde DJI Osmo Action 5 Pro)
 - Aktif mail adresi 
 
-# 1. DJI Global Sayfası 
+# 1. DJI Global İnternet Sayfası 
 
 
 
