@@ -13,7 +13,7 @@
 
 ### 📱 Gereksinimler
 
-- DJI 
+- DJI Osmo Action 5
 
 
 # 1. DJI Mimo APK Dosyasını Edinin
