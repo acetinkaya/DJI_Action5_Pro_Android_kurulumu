@@ -32,7 +32,7 @@
 
 | Sorun | Çözüm |
 |------|-------|
-| Kamera tanınmıyor | OTG kablosunun sağlamlığını
+| Kamera tanınmıyor | OTG kablosunun sağlamlığını ve destekli olup 
 
 ---
 
