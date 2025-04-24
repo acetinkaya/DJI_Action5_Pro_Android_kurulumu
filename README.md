@@ -20,7 +20,7 @@
 - DJI Mimo App (Güncel sürüm)
 - OTG destekli USB-TYPE C kablosu
 - Gerekli izinlerin verilmiş olması (Hem Android Hemde DJI Osmo Action 5 Pro)
-- Mail
+- Mail adresi 
 
 # 1. DJI Mimo APK Dosyasını Edinin
 
