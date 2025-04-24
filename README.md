@@ -34,11 +34,11 @@ NOT: İndirip kurulum işlemlerini tamamladıktan sonra DJI kullanıcı adı ve 
 # 3. DJI Store uygulamasından veya DJI Download Center'den "DJI Mimo" APK Dosyasını indirip telefonunuzun (iOS || Android) modelinize göre kurulumu gerçekleştiriniz.    
 NOT: DJI Mimo uygulaması Android cihazlarda Play Store üzerinden indirilemiyorsa aşağıdaki işlem süreçlerini takip ederek kurulum işlemi başlatabilirsiniz. Bu nedenle güncel APK dosyasına sadece DJI sayfasından veya DJI Store uygulamasından erişim sağlayınız.   
 
+- DJI Download Center   
+![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/DJIMino.png)   
 
-![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/DJIMino.png)
-
-
-![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/1.jpg)
+- DJI Store Uygulaması    
+![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/1.jpg)    
 
 ---
 
