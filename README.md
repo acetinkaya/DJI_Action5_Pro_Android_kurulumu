@@ -14,7 +14,7 @@
 ### 📱 Gereksinimler
 
 - DJI Osmo Action 5 Pro  
-
+- Android 8.0 ve
 
 
 # 1. DJI Mimo APK Dosyasını Edinin
