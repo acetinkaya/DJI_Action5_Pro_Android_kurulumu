@@ -29,7 +29,7 @@ NOT: DJI Sayfası üzerinde oluşturduğunuz kullanıcı adı ve şifrenizi Mimo
 
 # 2. DJI Store uygulmalasını "Play Store" üzerinden edinin.
 ![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/dji_store.jpg)
-NOT: İndirip kurulum işlemlerini tamamladıktan sonra DJI 
+NOT: İndirip kurulum işlemlerini tamamladıktan sonra DJI kullanıcı adı ve şifresiniz ile DJI STORE 
 
 
 ## DJI Mimo uygulaması Android cihazlarda Play Store üzerinden indirilemiyorsa aşağıdaki işlem süreçlerini takip ederek kurulum işlemi başlatabilirsiniz. 
