@@ -1,5 +1,7 @@
 # 📸 DJI Action 5 Pro - Android Kurulumu
 
+https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/v6.png
+
 ## Bu repoda, **DJI Action 5 Pro** aksiyon kamerasının Android işletim sistemine sahip telefonlarla nasıl eşleştirileceği ve **DJI Mimo** uygulamasının nasıl kurulacağı detaylı olarak anlatılmaktadır.
 
 > 📌 **Önemli Uyarı:**     
