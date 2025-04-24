@@ -32,7 +32,7 @@
 
 | Sorun | Çözüm |
 |------|-------|
-| Kamera tanınmıyor | OTG kablosunun sağlamlığını ve destekli olup olmadığını kontrol edin |
+| Action 5 Kamera tanınmıyor | Uygulamaların olup olmadığını kontrol edin |
 | Uygulama açılmıyor | Uygulamanın tüm izinlerinin verildiğinden emin olun |
 | Güncelleme sorunu | DJI Mimo uygulamasını resmi siteden tekrar indirin |
 
