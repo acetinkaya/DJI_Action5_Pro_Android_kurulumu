@@ -16,7 +16,8 @@
 - DJI Osmo Action 5 Pro  
 - Android 8.0 ve üzeri işletim sistemi
 - DJI Mimo App (Güncel sürüm)
-- OTG destekli USB-TYPE
+- OTG destekli USB-TYPE C kablosu
+
 
 
 # 1. DJI Mimo APK Dosyasını Edinin
