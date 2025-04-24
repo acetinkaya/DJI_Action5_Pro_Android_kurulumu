@@ -22,10 +22,12 @@
 - Gerekli izinlerin verilmiş olması (Hem Android Hemde DJI Osmo Action 5 Pro)
 - Aktif mail adresi 
 
-#* 1. DJI Global Sayfasından Üyelik oluşturarak kayıt olmanız gerekmektedir.   
+# 1. DJI Global Sayfasından Üyelik oluşturarak kayıt olmanız gerekmektedir.   
 ![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/dji.png)   
+NOT: DJI Sayfası üzerinde oluşturduğunuz kullanıcı adı ve şifrenizi Mimo APK Dosyasını Edindikten sonra kullanacağız. 
 
 # 2. DJI Mimo APK Dosyasını Edinin
+
 
 ## DJI Mimo uygulaması Android cihazlarda Play Store üzerinden indirilemiyorsa aşağıdaki işlem süreçlerini takip ederek kurulum işlemi başlatabilirsiniz. 
 
