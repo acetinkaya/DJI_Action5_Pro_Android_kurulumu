@@ -33,7 +33,8 @@
 | Sorun | Çözüm |
 |------|-------|
 | Kamera tanınmıyor | OTG kablosunun sağlamlığını ve destekli olup olmadığını kontrol edin |
-| Uygulama açılmıyor | Uygulamanın tüm izinlerinin
+| Uygulama açılmıyor | Uygulamanın tüm izinlerinin verildiğinden emin olun |
+
 
 ---
 
