@@ -22,7 +22,7 @@
 - Gerekli izinlerin verilmiş olması (Hem Android Hemde DJI Osmo Action 5 Pro)
 - Aktif mail adresi 
 
-# 1. DJI Global Sayfasından Üyelik oluşturarak kayıt olmanız gerekmektedir. DJI
+# 1. DJI Global Sayfasından Üyelik oluşturarak kayıt olmanız gerekmektedir. DJI: [https://www.dji.com/](https://www.dji.com/)  
 
 
 
