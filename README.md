@@ -13,7 +13,7 @@
 
 ### 📱 Gereksinimler
 
-
+- DJI 
 
 
 # 1. DJI Mimo APK Dosyasını Edinin
