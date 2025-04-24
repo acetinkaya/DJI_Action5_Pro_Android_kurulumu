@@ -17,7 +17,7 @@
 - Android 8.0 ve üzeri işletim sistemi
 - DJI Mimo App (Güncel sürüm)
 - OTG destekli USB-TYPE C kablosu
-- Gerekli izinlerin 
+- Gerekli izinlerin verilmiş olması
 
 
 # 1. DJI Mimo APK Dosyasını Edinin
