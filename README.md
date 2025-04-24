@@ -32,9 +32,7 @@ NOT: DJI Sayfası üzerinde oluşturduğunuz kullanıcı adı ve şifrenizi Mimo
 NOT: İndirip kurulum işlemlerini tamamladıktan sonra DJI kullanıcı adı ve şifresiniz ile DJI STORE uygulması üzerinde üyeliğinizi aktif ediniz.    
 
 # 3. DJI Store uygulamasından veya DJI Download Center'den "DJI Mimo" APK Dosyasını indirip telefonunuzun (iOS || Android) modelinize göre kurulumu gerçekleştiriniz.  
-NOT: DJI Mimo uygulaması Android cihazlarda Play Store üzerinden indirilemiyorsa aşağıdaki işlem süreçlerini takip ederek kurulum işlemi başlatabilirsiniz. 
-
-## Bu nedenle güncel APK dosyasına sadece sayfasında erişim sağlayınız. NOT: Uygulama yönlendirmesi yapılmaksınız 
+NOT: DJI Mimo uygulaması Android cihazlarda Play Store üzerinden indirilemiyorsa aşağıdaki işlem süreçlerini takip ederek kurulum işlemi başlatabilirsiniz. Bu nedenle güncel APK dosyasına sadece DJI sayfasından veya DJI Store uygulamasından erişim sağlayınız.
 
 ---
 
