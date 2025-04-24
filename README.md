@@ -27,6 +27,7 @@
 
 ## Bu nedenle güncel APK dosyasına sadece sayfasında erişim sağlayınız. NOT: Uygulama yönlendirmesi yapılmaksınız 
 
+---
 
 ## 🛠️ Sık Karşılaşılan Sorunlar
 
