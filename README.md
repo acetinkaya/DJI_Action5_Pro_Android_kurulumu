@@ -13,6 +13,9 @@
 
 ## 🚀 Başlangıç
 
+- DJI Osmo Action 5 Pro ilk çalıştırıldığında aşağıdaki bilgilendirme ekranı gelmektedir.     
+![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/Action5-1.jpg)   
+
 ### 📱 Gereksinimler
 
 - DJI Osmo Action 5 Pro  
@@ -39,10 +42,7 @@ NOT: DJI Mimo uygulaması Android cihazlarda Play Store üzerinden indirilemiyor
 
 - DJI Store Uygulaması    
 ![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/1.jpg)
-
-- DJI Osmo Action 5 Pro ilk çalıştırıldığında aşağıdaki bilgilendirme ekranı gelmektedir.     
-![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/Action5-1.jpg)    
-
+ 
 # 4. DJI Mino Kurulumu
 
 ![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/2.jpg)  
