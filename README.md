@@ -146,3 +146,10 @@ Kurulum İşlemlerimiz Tamamlanmıştır. Ek kurulumlar ve kullanımlar için DJ
 ## ⚠️ Uyarı
 
 Bu döküman kurulum sürecinde deneyimlenen bilginin paylaşımı için hazırlanmıştır. Kurulum işlemlerinde doğabilecek sorunlardan yazar sorumlu değildir. Lütfen **DJI Resmi Kurulum Kılavuzu**’nu incelemeyi unutmayınız.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+Katkıda Bulunma:
+Çekme istekleri memnuniyetle karşılanır. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi görüşmek üzere ilgili Python kodunu belirttiğiniz bir soru - yanıt bölümü açın. 
+ 
+
