@@ -155,4 +155,9 @@ Katkıda Bulunma:
 Lisans: 
 [MIT Lisansı](http://mit-license.org/) altında yayımlandı
 
+Yazar ve Güncelleme Yapan: [Öğr. Gör. Ali Çetinkaya (MSc.)](https://github.com/acetinkaya) - 2025
+Buradaki içerikler ve görüntüler Öğr. Gör. Ali ÇETİNKAYA tarafından oluşturulmuştur. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
 
