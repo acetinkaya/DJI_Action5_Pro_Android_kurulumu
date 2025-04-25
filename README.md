@@ -129,6 +129,10 @@ NOT: DJI Mimo uygulaması Android cihazlarda Play Store üzerinden indirilemiyor
 
 ---
 
+Kurulum İşlemlerimiz Tamamlanmıştır. 
+
+---
+
 ## 🛠️ Sık Karşılaşılan Sorunlar
 
 | Sorun | Çözüm |
