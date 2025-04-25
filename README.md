@@ -166,3 +166,7 @@ Pull requests are welcome. For major changes, please open a discussion in the Q&
 License:
 Published under the MIT License.
 
+
+Author and Maintainer:
+Lecturer Ali Çetinkaya (MSc.) – 2025
+All content and visuals in this repository are created by Lecturer Ali Çetinkaya.
