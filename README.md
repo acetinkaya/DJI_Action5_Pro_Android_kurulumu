@@ -160,4 +160,9 @@ Buradaki içerikler ve görüntüler Öğr. Gör. Ali ÇETİNKAYA tarafından ol
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
+Contributing:
+Pull requests are welcome. For major changes, please open a discussion in the Q&A section specifying the relevant Python code you would like to modify before proceeding.
+
+License:
+Published under the MIT License.
 
