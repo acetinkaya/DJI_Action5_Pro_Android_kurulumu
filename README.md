@@ -115,7 +115,7 @@ NOT: DJI Mimo uygulaması Android cihazlarda Play Store üzerinden indirilemiyor
 
 ![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/k6.png)
 
-![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/k7.jpg)
+![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/k7.png)
 
 ![alternatif metin](https://github.com/acetinkaya/DJI_Action5_Pro_Android_kurulumu/blob/main/k8.jpg)
 
