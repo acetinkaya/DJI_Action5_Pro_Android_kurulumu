@@ -152,4 +152,7 @@ Bu döküman kurulum sürecinde deneyimlenen bilginin paylaşımı için hazırl
 Katkıda Bulunma:
 Çekme istekleri memnuniyetle karşılanır. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi görüşmek üzere ilgili Python kodunu belirttiğiniz bir soru - yanıt bölümü açın. 
  
+Lisans: 
+[MIT Lisansı](http://mit-license.org/) altında yayımlandı
+
 
